@@ -78,6 +78,9 @@ body {
 #testimonials {
   text-align: center;
   background-color: #ef8172;
+}
+
+.carousel-item {
   padding: 7% 15%;
 }
 
@@ -104,4 +107,10 @@ body {
 .press-logo {
   width: 15%;
   margin: 20px 20px 15px;
+}
+
+/* Pricing */
+#pricing {
+  padding: 100px;
+  text-align: center;
 }
