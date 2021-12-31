@@ -31,6 +31,15 @@ h4 {
   padding: 7% 15%;
 }
 
+/* sections background */
+.colored-section {
+  background-color: #ff4c68;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
 /* Navigation Bar */
 .navbar {
   padding: 0 0 4.5rem;
@@ -57,13 +66,9 @@ h4 {
 }
 
 /* Title */
-#title {
-  text-align: left;
-  background-color: #ff4c68;
-}
-
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 /* Title img */
@@ -127,12 +132,6 @@ h4 {
 /* Pricing */
 #pricing {
   padding: 100px;
-}
-
-/* Call to Action */
-
-#cta {
-  background-color: #ff4c68;
 }
 
 /* Footer */
